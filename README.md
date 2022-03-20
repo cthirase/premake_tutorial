@@ -12,7 +12,7 @@ This unofficial tutorial is provided to show you some specific uses of Premake5.
 | ---- | ---- |
 | [hello](tutorial/hello/README.md) | for Premake5 beginners |
 | [outputdir](tutorial/outputdir/README.md) | specify the file name and output directory |
-| [clean_action](tutorial/clean_action/README.md) | 
+| [clean_action](tutorial/clean_action/README.md) | add a `clean` action |
 
 # License
 See [LICENSE](./LICENSE) document.
