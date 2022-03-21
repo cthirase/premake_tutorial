@@ -10,12 +10,3 @@ project "hello_world"
 
    -- source files
    files { "hello.c" }
-
-   -- compile settings
-   filter "configurations:Debug"
-      defines { "DEBUG" }
-      symbols "On"
-
-   filter "configurations:Release"
-      defines { "NDEBUG" }
-      optimize "On"
